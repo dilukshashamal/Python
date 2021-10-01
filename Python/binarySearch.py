@@ -16,7 +16,7 @@ def binary_Search(arr,x):
         else:
             return mid
 
-    retur -1
+    return -1
 
   
 
